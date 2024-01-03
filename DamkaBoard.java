@@ -15,11 +15,11 @@ public class DamkaBoard {
 					
 			}
 			while (j<n) {
-				System.out.print(" * ");
+				System.out.print("* ");
 				j++;
 
 			}
-			System.out.println();
+
 			System.out.println();
 			i++;
 		}
